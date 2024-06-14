@@ -1,0 +1,127 @@
+Variable,Data Point Name,Unit
+var1,Time,hour
+var2,Ease Zone: Room Temperature ,F
+var3,Ease Zone: Room Cooling Setpoint ,F
+var4,Ease Zone: Room Heating Setpoint ,F
+var5,Ease Zone: Electric Reheating Coil Power Control Signal,0 to 100%
+var6,Ease Zone: Electric Reheating Coil Power Consumption,W
+var7,Ease Zone: VAV Discharge Air Temperature ,F
+var8,Ease Zone: VAV Discharge Air Temperature Setpoint,F
+var9,Ease Zone: VAV Damper Position ,0 to 100%
+var10,Ease Zone: VAV Damper Control Signal (Pressure independent),0 to 100%
+var11,Ease Zone: VAV Discharge Air Flow Rate Set Point ,cfm
+var12,Ease Zone: VAV Discharge Air Flow Rate ,cfm
+var13,South Zone: Room Temperature ,F
+var14,South Zone: Room Cooling Setpoint ,F
+var15,South Zone: Room Heating Setpoint ,F
+var16,South Zone: Electric Reheating Coil Power Control Signal,0 to 100%
+var17,South Zone: Electric Reheating Coil Power Consumption,W
+var18,South Zone: VAV Discharge Air Temperature ,F
+var19,South Zone: VAV Discharge Air Temperature Setpoint,F
+var20,South Zone: VAV Damper Position ,0 to 100%
+var21,South Zone: VAV Damper Control Signal (Pressure independent),0 to 100%
+var22,South Zone: VAV Discharge Air Flow Rate Set Point ,cfm
+var23,South Zone: VAV Discharge Air Flow Rate ,cfm
+var24,West Zone: Room Temperature ,F
+var25,West Zone: Room Cooling Setpoint ,F
+var26,West Zone: Room Heating Setpoint ,F
+var27,West Zone: Electric Reheating Coil Power Control Signal,0 to 100%
+var28,West Zone: Electric Reheating Coil Power Consumption,W
+var29,West Zone: VAV Discharge Air Temperature ,F
+var30,West Zone: VAV Discharge Air Temperature Setpoint,F
+var31,West Zone: VAV Damper Position ,0 to 100%
+var32,West Zone: VAV Damper Control Signal (Pressure independent),0 to 100%
+var33,West Zone: VAV Discharge Air Flow Rate Set Point ,cfm
+var34,West Zone: VAV Discharge Air Flow Rate ,cfm
+var35,North Zone: Room Temperature ,F
+var36,North Zone: Room Cooling Setpoint ,F
+var37,North Zone: Room Heating Setpoint ,F
+var38,North Zone: Electric Reheating Coil Power Control Signal,0 to 100%
+var39,North Zone: Electric Reheating Coil Power Consumption,W
+var40,North Zone: VAV Discharge Air Temperature ,F
+var41,North Zone: VAV Discharge Air Temperature Setpoint,F
+var42,North Zone: VAV Damper Position ,0 to 100%
+var43,North Zone: VAV Damper Control Signal (Pressure independent),0 to 100%
+var44,North Zone: VAV Discharge Air Flow Rate Set Point ,cfm
+var45,North Zone: VAV Discharge Air Flow Rate ,cfm
+var46,Core Zone: Room Temperature ,F
+var47,Core Zone: Room Cooling Setpoint ,F
+var48,Core Zone: Room Heating Setpoint ,F
+var49,Core Zone: Electric Reheating Coil Power Control Signal,0 to 100%
+var50,Core Zone: Electric Reheating Coil Power Consumption,W
+var51,Core Zone: VAV Discharge Air Temperature ,F
+var52,Core Zone: VAV Discharge Air Temperature Setpoint,F
+var53,Core Zone: VAV Damper Position ,0 to 100%
+var54,Core Zone: VAV Damper Control Signal (Pressure independent),0 to 100%
+var55,Core Zone: VAV Discharge Air Flow Rate Set Point ,cfm
+var56,Core Zone: VAV Discharge Air Flow Rate ,cfm
+var57,AHU: Supply Air Temperature,F
+var58,AHU: Supply Air Temperature Set Point,F
+var59,AHU: Outdoor Air Dry Bulb Temperature,F
+var60,AHU: Outdoor Air Wet Bulb Temperature,F
+var61,AHU: Mixed Air Temperature,F
+var62,AHU: Return Air Temperature,F
+var63,AHU: Cooling Coil Discharge Air Temperature ,F
+var64,AHU: Supply Air Fan Status,"0-off, 1-on"
+var65,AHU: Supply Air Fan Speed Control Signal,0 to 100%
+var66,AHU: Outdoor Air Damper Control Signal (Screen Value),0 to 100%
+var67,AHU: Outdoor Air Damper Stuck Position (True Value),0 to 100%
+var68,AHU: Return Air Damper Control Signal,0 to 100%
+var69,AHU: Exhaust Air Damper Control Signal,0 to 100%
+var70,AHU: Supply Air Mass Flow Rate,cfm
+var71,AHU: Outdoor Air Mass Flow Rate,cfm
+var72,AHU: Return Air Mass Flow Rate,cfm
+var73,AHU: Exhaust Air Mass Flow Rate,cfm
+var74,AHU: Cooling Coil Valve Control Signal (Screen Value),0 to 100%
+var75,AHU: Cooling Coil Valve Stuck Position (True Value),0 to 100%
+var76,AHU: Heating Coil Valve Control Signal,0 to 100%
+var77,AHU: Supply Air Duct Static Pressure,psi
+var78,AHU: Supply Air Duct Static Pressure Set Point,psi
+var79,AHU: Cooling coil heat transfer rate,W
+var80,AHU: Heating coil heat transfer rate,W
+var81,AHU: Supply air fan power consumption,W
+var82,System: VAV Zone Group Operation Mode,-
+var83,System: Occupancy Mode Indicator,"1-occupied, 2-cooldown, 3-setup, 4-warmup, 5-setback, 6-freeze protection, 7-unoccupied"
+var84,Chilled Water Loop: Supply Chilled Water Temperature,F
+var85,Chilled Water Loop: Return Chilled Water Temperature,F
+var86,Condenser Water Loop: Supply Cooling Water Temperature,F
+var87,Condenser Water Loop: Return Cooling Water Temperature,F
+var88,Hot Water Loop: Supply HotWater Temperature,F
+var89,Hot Water Loop: Return Hot Water Temperature,F
+var90,Chilled Water Loop: Supply Chilled Water Temperature Set Point,F
+var91,Chilled Water Loop: Differential Pressure ,psi
+var92,Chilled Water Loop: Differential Pressure Setpoint,psi
+var93,Hot Water Loop: Supply Hot Water Temperature Set Point,F
+var94,Hot Water Loop: Differential Pressure ,psi
+var95,Hot Water Loop: Differential Pressure Setpoint,psi
+var96,Chiller: On off Signal,"0-off, 1-on"
+var97,WSE (Water-side Economizer): On off Signal,"0-off, 1-on"
+var98,Boiler: Control Signal,"0-off, 1-on"
+var99,Chiller: Bypass Valve Control Signal,"0-off, 1-on"
+var100,WSE: Bypass Valve Control Signal,"0-off, 1-on"
+var101,Cooling Tower: Cooling Tower Fan Speed Control Signal,0 to 100%
+var102,Condenser Water Loop: Shutoff Valve Control Signal,"0-closed, 1-open"
+var103,Hot Water Loop: Boiler Shutoff Valve Control Signal,"0-closed, 1-open"
+var104,Hot Water Loop: Bypass Valve Control Signal,0-1
+var105,Chilled Water Loop: Chilled Water Flow Rate into the Cooling Coil,gpm
+var106,Chiller: Chilled Water Flow Rate,gpm
+var107,WSE: Chilled Water Flow Rate,gpm
+var108,Condenser Water Loop: Cooling Water Flow Rate,gpm
+var109,Chiller: Cooling Water Flow Rate,gpm
+var110,WSE: Cooling Water Flow Rate,gpm
+var111,Hot Water Loop: Hot Water Flow Rate into the Heating Coil,gpm
+var112,Boiler: Boiler Hot Water Flow Rate,gpm
+var113,Hot Water Loop: Bypass  Hot Water Flow Rate,gpm
+var114,Chiller: Power consumption,W
+var115,Boiler: Gas consumption,W
+var116,Chilled Water Pump: Power consumption,W
+var117,Cooling Water Pump: Power consumption,W
+var118,Hot Water Pump: Power consumption,W
+var119,Cooling Tower:  Fan Power consumption,W
+var120,Chilled Water Pump:  Speed Control Signal,0 to 100%
+var121,Cooling Water Pump:  Speed Control Signal,0 to 100%
+var122,Hot Water Pump: Speed Control Signal,0 to 100%
+var123,System: Cooling Mode Control Signal,"4-off, 3-on"
+var124,System:  Chiller Plant Equipment Operation Signal,"0-off, 1-on"
+var125,System:  Boiler Plant Equipment Operation Signal,"0-off, 1-on"
+var126,Economizer Mode: On off Signal,"0-off, 1-on"
