@@ -1,0 +1,7 @@
+This file provides detailed information about the datasets:
+
+1. The timestep of the dataset is every 5 minutes.
+2. The Hardware-in-the-Loop (HIL) simulation is based on the TMY3 (Typical Meteorological Year, version 3) weather file for Chicago, Illinois, USA.
+3. All datasets represent one-day simulation results using the weather data from August 1st in Chicago.
+4. The value of -123456 in the dataset signifies a missing data point retrieved from the building automation system server.
+5. All variables use Imperial (IP) units, except for the power consumption variables, which are expressed in International System of Units (SI). This is because the data are retrieved from the building automation system server, WebCTRL, which defaults to using IP units.
